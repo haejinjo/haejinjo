@@ -35,7 +35,7 @@ Below are my personal favorites.
 
 
 ## Additional Recommendations (interesting?)
-Below are things I've used in my ownn projects and whose value I can attest to.
+Below are things I've used in my own projects and whose value I can attest to.
 
 - [Redux](https://redux.js.org/) - Structured wrapper around your app to "connect" any component to a global state (Note: use wisely)
 - [Redux Toolkit](https://redux-toolkit.js.org/) - Organize verbose boilerplate and reducers into neat "slices" and more!
