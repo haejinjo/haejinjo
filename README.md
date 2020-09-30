@@ -26,7 +26,6 @@ Below are my personal favorites.
 ### Backend
 - [GraphQL](https://graphql.org/) - New specification offering an alt. paradigm to REST for exposing (and querying) data
 - [Apollo Server](https://www.apollographql.com/docs/apollo-server/) - Server for GraphQL
-- [Prisma](https://www.prisma.io/) - Alternative ORM for GraphQL
 - [Node.js](https://nodejs.org/en/about/) - Asynchronous Javascript-based server runtime environment
 - [Express.js](https://expressjs.com/) - A thin layer to apply over Node for modular routing and more succinctly "express"ed server logic
 
