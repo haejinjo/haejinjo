@@ -5,7 +5,7 @@
 I'm a software engineer with a passion for fullstack web development and making life easier for the humans in and adjacent to it. <br /><br />
 <b>Recently worked on </b>creating a better developer experience with [Reactime](https://github.com/open-source-labs/reactime) (a DevTool for time-travel debugging Redux-less[* ](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) React apps). So, if you want to chat about [React's underlying architecture](https://github.com/acdlite/react-fiber-architecture) or state management scenarios (e.g. when to use [Recoil](https://recoiljs.org/)), I encourage you to reach out.
 
-<b> Actively looking into </b> [Vue.js](https://vuejs.org/), what even is [reactive programming](http://reactivex.io/), and [Next.js](https://nextjs.org/) as an alternative SSR static site framework.
+<b> Actively looking into </b> [Rails](https://rubyonrails.org/) as a web framework and [Cucumber](https://cucumber.io/) for frontend testing.
 
 <b>Always interested in</b> new tech to make for more extensible, maintainable projects and contributions. <br />
 Below are my personal favorites.
@@ -41,6 +41,7 @@ Below are things I've used in my own projects and whose value I can attest to.
 - [immer](https://immerjs.github.io/immer/docs/introduction) - Skip the functional ceremony, and just mutate state directly! (but not really)
 - [Webpack](https://webpack.js.org/) - Module bundler
 - [axios](https://www.npmjs.com/package/axios) - Clean interface for making HTTP client requests
+- [Lodash](https://lodash.com/docs/) - Neat utility to boost your ability to write clean, effective JS operations
 
 <!--
 **haejinjo/haejinjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
