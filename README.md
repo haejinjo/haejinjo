@@ -2,10 +2,8 @@
 
 ## About Me
 
-I'm a software engineer with a passion for fullstack web development and making life easier for the humans in and adjacent to it. <br /><br />
-<b>Recently worked on </b>creating a better developer experience with [Reactime](https://github.com/open-source-labs/reactime) (a DevTool for time-travel debugging Redux-less[* ](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) React apps). So, if you want to chat about [React's underlying architecture](https://github.com/acdlite/react-fiber-architecture) or state management scenarios (e.g. when to use [Recoil](https://recoiljs.org/)), I encourage you to reach out.
-
-<b> Actively looking into </b> [Rails](https://rubyonrails.org/) as a web framework and [Cucumber](https://cucumber.io/) for frontend testing.
+I'm a software engineer with a passion for fullstack web development and making life easier. <br /><br />
+<b>Recently worked on </b>creating a better developer experience with [Reactime](https://github.com/open-source-labs/reactime) (a DevTool for time-travel debugging Redux-less[* ](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) React apps). So, if you want to chat, I encourage you to reach out.
 
 <b>Always interested in</b> new tech to make for more extensible, maintainable projects and contributions. <br />
 Below are my personal favorites.
@@ -17,15 +15,14 @@ Below are my personal favorites.
 - [Typescript](https://www.typescriptlang.org/) - a superset of Javascript and (to me) a welcome shift to static typing for the web
 
 ### Frameworks
-- [Gatsby](https://www.gatsbyjs.com/) - React-based Server-Side Rendering Framework 
+- [Rails](https://rubyonrails.org/) - Ruby bootstraps
+- [Laravel](https://laravel.com/) - PHP bootstraps
 
 ### Frontend
 - [React.js](https://reactjs.org/) - Lightweight, extensible UI component library for Javascript lovers
-- [Apollo Client](https://www.apollographql.com/docs/react/) - Featureful client-side interface for GraphQL 
+- [Apollo Client](https://www.apollographql.com/docs/react/) - If you give a mouse a GraphQL API...at least give them this too
 
 ### Backend
-- [GraphQL](https://graphql.org/) - New specification offering an alt. paradigm to REST for exposing (and querying) data
-- [Apollo Server](https://www.apollographql.com/docs/apollo-server/) - Server for GraphQL
 - [Node.js](https://nodejs.org/en/about/) - Asynchronous Javascript-based server runtime environment
 - [Express.js](https://expressjs.com/) - A thin layer to apply over Node for modular routing and more succinctly "express"ed server logic
 
