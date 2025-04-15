@@ -4,11 +4,16 @@
 
 I'm a software engineer with a passion for product, tech, and communication that makes life easier. <br /><br />
 
-<b>Recently worked on </b>creating a better developer experience with [Reactime](https://github.com/open-source-labs/reactime) (a DevTool for time-travel debugging Redux-less[* ](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) React apps). So, if you want to chat, I encourage you to reach out.
+<b>In the past, I've worked on </b>creating a better developer experience with [Reactime](https://github.com/open-source-labs/reactime) (a DevTool for time-travel debugging Redux-less[* ](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) React apps). So, if you want to chat, I encourage you to reach out.
+
+- 🌱 I’m currently working on ...
+  - product development at HackerOne
+  - some TBA side projects
 
 - 🌱 I’m currently learning ...
   - generative media workflows (Hailuo Minimax, ElevenLabs, Kling AI, GPT, Gemini AI Studio, ComfyUI??, etc.)
   - LLM architecture and design patterns (Model Context Protocol, LLM as judge, Attention etc.)
+  - ethical hacking strategies (PortSwigger/Burpsuite)
   - all things business and finance
 
 <b>Always interested in</b> new tech to make for more efficient, more maintainable software and business. <br />
