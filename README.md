@@ -2,32 +2,31 @@
 
 ## About Me
 
-I'm a software engineer with a passion for fullstack web development and making life easier. <br /><br />
+I'm a software engineer with a passion for product, tech, and communication that makes life easier. <br /><br />
+
 <b>Recently worked on </b>creating a better developer experience with [Reactime](https://github.com/open-source-labs/reactime) (a DevTool for time-travel debugging Redux-less[* ](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) React apps). So, if you want to chat, I encourage you to reach out.
 
-<b>Always interested in</b> new tech to make for more extensible, maintainable projects and contributions. <br />
-Below are my personal favorites.
+- 🌱 I’m currently learning ...
+  - generative media workflows (Hailuo Minimax, ElevenLabs, Kling AI, GPT, Gemini AI Studio, ComfyUI??, etc.)
+  - LLM architecture and design patterns (Model Context Protocol, LLM as judge, Attention etc.)
+  - all things business and finance
+
+<b>Always interested in</b> new tech to make for more efficient, more maintainable software and business. <br />
+Below are some of my trusty tools:
 
 ## Stack
 
 ### Languages
 - Javascript - quirky, lovable, prolific, very poorly named
-- [Typescript](https://www.typescriptlang.org/) - a superset of Javascript and (to me) a welcome shift to static typing for the web
+- [Typescript](https://www.typescriptlang.org/) - a superset of Javascript that brought strong typing to web development
 
 ### Frameworks
 - [Rails](https://rubyonrails.org/) - Ruby bootstraps
 - [Laravel](https://laravel.com/) - PHP bootstraps
 
-### Frontend
-- [React.js](https://reactjs.org/) - Lightweight, extensible UI component library for Javascript lovers
-- [Apollo Client](https://www.apollographql.com/docs/react/) - If you give a mouse a GraphQL API...at least give them this too
-
-### Backend
-- [Node.js](https://nodejs.org/en/about/) - Asynchronous Javascript-based server runtime environment
-- [Express.js](https://expressjs.com/) - A thin layer to apply over Node for modular routing and more succinctly "express"ed server logic
-
 ### Testing
 -  [Jest](https://jestjs.io/) - Delightfully readable and feature-rich assertion framework to create unit tests in pure isolation
+-  [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - 
 
 
 ## Additional Recommendations (interesting?)
